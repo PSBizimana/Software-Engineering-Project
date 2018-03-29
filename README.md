@@ -1,1 +1,1 @@
-# Software Engineering Project Created using the CodeIgniter FrameWork To create easier communication between Doctors and their Patients.
+# Software Engineering Project Created using the CodeIgniter FrameWork for better communication between Doctors and their Patients.
